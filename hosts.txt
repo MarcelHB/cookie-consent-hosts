@@ -1,0 +1,15 @@
+consentmanager.mgr.consensu.org
+cdn.consentmanager.mgr.consensu.org
+cookie-script.com
+consent.cookiebot.com
+app.cookiefirst.com
+consent.cookiefirst.com
+policy.cookieinformation.com
+policy.app.cookieinformation.com
+cookieinfoscript.com
+cdn.cookielaw.org
+cdn.iubenda.com
+apipub.metomic.io
+cdn.trustcommander.net
+consent.trustarc.com
+app.usercentrics.eu

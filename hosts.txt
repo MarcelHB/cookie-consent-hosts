@@ -1,5 +1,7 @@
 consentmanager.mgr.consensu.org
 cdn.consentmanager.mgr.consensu.org
+quantcast.mgr.consensu.org
+static.quantcast.mgr.consensu.org
 cookie-script.com
 consent.cookiebot.com
 app.cookiefirst.com

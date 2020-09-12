@@ -1,4 +1,5 @@
 cc.cdn.civiccomputing.com
+clickio.mgr.consensu.org
 consentmanager.mgr.consensu.org
 cdn.consentmanager.mgr.consensu.org
 quantcast.mgr.consensu.org
@@ -13,6 +14,7 @@ cookieinfoscript.com
 cdn.cookielaw.org
 cdn.iubenda.com
 apipub.metomic.io
+gdpr-tcfv2.sp-prod.net
 cdn.trustcommander.net
 consent.trustarc.com
 app.usercentrics.eu

@@ -1,4 +1,4 @@
 > Consent? What consent?
 
 Awareness list for hosts that serve cookie consent nag screens as a
-service.
+service, also known as _Consent Management Platforms_ (CMPs).

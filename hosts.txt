@@ -5,6 +5,7 @@ cdn.consentmanager.mgr.consensu.org
 quantcast.mgr.consensu.org
 static.quantcast.mgr.consensu.org
 cookie-script.com
+cdn.cookie-script.com
 consent.cookiebot.com
 app.cookiefirst.com
 consent.cookiefirst.com
@@ -14,6 +15,7 @@ cookieinfoscript.com
 cdn.cookielaw.org
 cdn.iubenda.com
 apipub.metomic.io
+gdpr-consent-tool.privacymanager.io
 gdpr-tcfv2.sp-prod.net
 cdn.trustcommander.net
 consent.trustarc.com

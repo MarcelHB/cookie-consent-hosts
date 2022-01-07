@@ -15,6 +15,7 @@ cookieinfoscript.com
 cdn.cookielaw.org
 cdn.iubenda.com
 apipub.metomic.io
+cdn.privacy-mgmt.com
 gdpr-consent-tool.privacymanager.io
 gdpr-tcfv2.sp-prod.net
 cdn.trustcommander.net

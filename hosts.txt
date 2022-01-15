@@ -1,4 +1,5 @@
 cdn.appconsent.io
+gdpr-legal-cookie.beeclever.app
 cc.cdn.civiccomputing.com
 clickio.mgr.consensu.org
 consentmanager.mgr.consensu.org
@@ -13,10 +14,12 @@ cdn.cookie-script.com
 consent.cookiebot.com
 app.cookiefirst.com
 consent.cookiefirst.com
+cookiehub.net
 policy.cookieinformation.com
 policy.app.cookieinformation.com
 cookieinfoscript.com
 cdn.cookielaw.org
+consentmanager.firststars.io
 cdn.iubenda.com
 apipub.metomic.io
 sdk.mrf.io

@@ -12,6 +12,7 @@ d.delivery.consentmanager.net
 cookie-script.com
 cdn.cookie-script.com
 consent.cookiebot.com
+consent.cookiebot.eu
 app.cookiefirst.com
 consent.cookiefirst.com
 cookiehub.net

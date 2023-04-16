@@ -22,6 +22,7 @@ cookieinfoscript.com
 cdn.cookielaw.org
 consentmanager.firststars.io
 cdn.iubenda.com
+static.clickskeks.at
 apipub.metomic.io
 sdk.mrf.io
 cdn.opencmp.net
@@ -36,5 +37,6 @@ cdn.trustcommander.net
 consent.trustarc.com
 cmp.uniconsent.com
 app.usercentrics.eu
+api.usercentrics.eu
 api.eu.usercentrics.eu
 app.eu.usercentrics.eu

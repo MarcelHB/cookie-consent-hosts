@@ -1,5 +1,6 @@
 cdn.appconsent.io
 gdpr-legal-cookie.beeclever.app
+cloud.ccm19.de
 cc.cdn.civiccomputing.com
 clickio.mgr.consensu.org
 consentmanager.mgr.consensu.org

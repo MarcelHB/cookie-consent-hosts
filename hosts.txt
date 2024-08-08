@@ -42,3 +42,5 @@ app.usercentrics.eu
 api.usercentrics.eu
 api.eu.usercentrics.eu
 app.eu.usercentrics.eu
+web.cmp.usercentrics.eu
+uct.service.usercentrics.eu

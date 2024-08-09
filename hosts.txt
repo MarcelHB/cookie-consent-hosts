@@ -35,6 +35,7 @@ cmp-consent-tool.privacymanager.io
 gdpr.privacymanager.io
 gdpr-consent-tool.privacymanager.io
 gdpr-tcfv2.sp-prod.net
+the.gatekeeperconsent.com
 cdn.trustcommander.net
 consent.trustarc.com
 cmp.uniconsent.com

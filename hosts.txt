@@ -28,6 +28,7 @@ static.clickskeks.at
 apipub.metomic.io
 sdk.mrf.io
 cdn.opencmp.net
+cmp.osano.com
 sdk.privacy-center.org
 cdn.privacy-mgmt.com
 ccpa.privacymanager.io

@@ -25,6 +25,7 @@ cdn-cookieyes.com
 consentmanager.firststars.io
 cdn.iubenda.com
 static.clickskeks.at
+webcache-eu.datareporter.eu
 apipub.metomic.io
 sdk.mrf.io
 cdn.opencmp.net

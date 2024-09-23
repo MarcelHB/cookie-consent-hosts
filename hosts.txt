@@ -26,6 +26,8 @@ consentmanager.firststars.io
 cdn.iubenda.com
 static.clickskeks.at
 webcache-eu.datareporter.eu
+global.ketchcdn.com
+cdn.ketchjs.com
 apipub.metomic.io
 sdk.mrf.io
 cdn.opencmp.net

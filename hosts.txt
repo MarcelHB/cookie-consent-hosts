@@ -18,6 +18,7 @@ consent.cookiebot.com
 consent.cookiebot.eu
 app.cookiefirst.com
 consent.cookiefirst.com
+consent-eu.cookiefirst.com
 cookiehub.net
 policy.cookieinformation.com
 policy.app.cookieinformation.com

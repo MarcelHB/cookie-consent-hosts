@@ -3,6 +3,7 @@ gdpr-legal-cookie.beeclever.app
 cloud.ccm19.de
 cc.cdn.civiccomputing.com
 clickiocmp.com
+app.cockpit.legal
 fides.condenastdigital.com
 privacy.condenastdigital.com
 cdn.consentmanager.net
